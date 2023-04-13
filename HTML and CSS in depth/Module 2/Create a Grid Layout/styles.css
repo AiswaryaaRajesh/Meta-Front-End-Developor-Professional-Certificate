@@ -34,6 +34,7 @@
   .main {
       grid-area: main;
       padding: 25px;
+      text-align: center;
   }
     
   .left {
@@ -56,4 +57,5 @@
   .sidebar {
       padding: 25px;
       background-color:darkcyan;
+      text-align: center;
     }
