@@ -74,3 +74,8 @@ grid-template-areas: "header header header"
 
 
 Open index.html in Live Preview.
+
+![image](https://user-images.githubusercontent.com/72779223/231659747-5cf3b5a8-d3e4-487a-b31a-36ff5617df2b.png)
+![image](https://user-images.githubusercontent.com/72779223/231659798-6d051f7a-41d0-4be9-81dd-6c7492fd870c.png)
+
+
