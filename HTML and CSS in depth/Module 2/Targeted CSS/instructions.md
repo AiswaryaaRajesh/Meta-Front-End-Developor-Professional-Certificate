@@ -95,3 +95,4 @@ div ~ div {
   color: rgb(90, 90, 90);
 }
 ```
+![image](https://user-images.githubusercontent.com/72779223/233151088-4a9b1dea-deee-4a66-96cf-e353b50c1c73.png)
