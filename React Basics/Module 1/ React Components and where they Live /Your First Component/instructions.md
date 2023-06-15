@@ -28,3 +28,5 @@ Save your changes and view the app in the browser.
 ## **Tip**
 
 If you’re having trouble with this lab, please review the "Creating Components" video. This video covers all of the concepts that you’ll need to successfully complete this lab.
+
+![image](https://github.com/AiswaryaaRajesh/Meta-Front-End-Developor-Professional-Certificate/assets/72779223/36cdb13b-b5e3-470c-a00c-150421984877)
